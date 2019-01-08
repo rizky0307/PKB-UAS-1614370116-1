@@ -16,7 +16,7 @@ Querynya adalah :
 
 # PENJELASAN QUERY YANG DIGUNAKAN :
 
-Cara pembacaannya query tersebut adalah "X adalah keturunan sah Y, maka X adalah anak Y. 
+Cara pembacaan query tersebut adalah "X adalah keturunan sah Y, maka X adalah anak Y. 
 Dan karena X keturunan sah Y, maka X adalah anak dari Z, dan Z adalah keturunan sah dari Y"
 
 
@@ -24,7 +24,7 @@ Maka formulasi bahasa prolognya berupa :
 
 <blockquote>keturunan_sah(X,suwilo).</blockquote>
 
-Maka nama yang dimunculkan oleh variabel X yaitu :
+Sehingga nama yang dimunculkan oleh variabel X yaitu :
 * X = jodi ;
 * X = ferdinan ;
 * X = suwardi ;
