@@ -1,4 +1,4 @@
-# PENJELASAN QUERY REKURSIF UNTUK SOAL NOMOR 1
+# SOAL NOMOR 1
 ---
 # PERSOALAN :
 <blockquote>Bapak Suwilo, seorang pemilik perusahaan (presiden direktur) sedang mencari siapa saja keturunannya yang bisa menggantikan 
