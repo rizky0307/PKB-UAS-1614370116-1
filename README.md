@@ -24,7 +24,7 @@ Maka formulasi bahasa prolognya berupa :
 
 <blockquote>keturunan_sah(X,suwilo).</blockquote>
 
-Sehingga nama yang dimunculkan oleh variabel X yaitu :
+Sehingga nama yang dimunculkan oleh variabel X adalah :
 * X = jodi ;
 * X = ferdinan ;
 * X = suwardi ;
